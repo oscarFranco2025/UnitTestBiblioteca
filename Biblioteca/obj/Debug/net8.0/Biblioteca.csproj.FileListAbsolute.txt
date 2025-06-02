@@ -1,0 +1,11 @@
+C:\src\ISII\ReservaBibliotecaSolution_NET8_NUnit\Biblioteca\bin\Debug\net8.0\Biblioteca.deps.json
+C:\src\ISII\ReservaBibliotecaSolution_NET8_NUnit\Biblioteca\bin\Debug\net8.0\Biblioteca.dll
+C:\src\ISII\ReservaBibliotecaSolution_NET8_NUnit\Biblioteca\bin\Debug\net8.0\Biblioteca.pdb
+C:\src\ISII\ReservaBibliotecaSolution_NET8_NUnit\Biblioteca\obj\Debug\net8.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\ISII\ReservaBibliotecaSolution_NET8_NUnit\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfoInputs.cache
+C:\src\ISII\ReservaBibliotecaSolution_NET8_NUnit\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfo.cs
+C:\src\ISII\ReservaBibliotecaSolution_NET8_NUnit\Biblioteca\obj\Debug\net8.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\src\ISII\ReservaBibliotecaSolution_NET8_NUnit\Biblioteca\obj\Debug\net8.0\Biblioteca.dll
+C:\src\ISII\ReservaBibliotecaSolution_NET8_NUnit\Biblioteca\obj\Debug\net8.0\refint\Biblioteca.dll
+C:\src\ISII\ReservaBibliotecaSolution_NET8_NUnit\Biblioteca\obj\Debug\net8.0\Biblioteca.pdb
+C:\src\ISII\ReservaBibliotecaSolution_NET8_NUnit\Biblioteca\obj\Debug\net8.0\ref\Biblioteca.dll
