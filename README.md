@@ -64,12 +64,12 @@ Se utilizaron técnicas de **clases de equivalencia** para definir casos represe
 
 | ID   | Descripción                                 | Datos simulados                                                      | Resultado esperado |
 |------|---------------------------------------------|----------------------------------------------------------------------|--------------------|
-| TC1  | Caso totalmente válido                      | `"U001"`, `"Normal"`, `true`, `false`, `día hábil`                  | ✅ `true`          |
-| TC2  | Usuario sin código                          | `""`, `"Normal"`, `true`, `false`, `día hábil`                      | ❌ `false`         |
-| TC3  | Usuario con estado inválido ("Sancionado")  | `"U001"`, `"Sancionado"`, `true`, `false`, `día hábil`              | ❌ `false`         |
-| TC4  | Libro no reservable                         | `"U001"`, `"Normal"`, `false`, `false`, `día hábil`                 | ❌ `false`         |
-| TC5  | Libro ya reservado                          | `"U001"`, `"Normal"`, `true`, `true`, `día hábil`                   | ❌ `false`         |
-| TC6  | Día no hábil                                | `"U001"`, `"Normal"`, `true`, `false`, `día no hábil`              | ❌ `false`         |
+| TC1  | Caso totalmente válido                      | `"U001"`, `"Normal"`, `true`, `false`, `día hábil`                  |  `true`          |
+| TC2  | Usuario sin código                          | `""`, `"Normal"`, `true`, `false`, `día hábil`                      |  `false`         |
+| TC3  | Usuario con estado inválido ("Sancionado")  | `"U001"`, `"Sancionado"`, `true`, `false`, `día hábil`              |  `false`         |
+| TC4  | Libro no reservable                         | `"U001"`, `"Normal"`, `false`, `false`, `día hábil`                 |  `false`         |
+| TC5  | Libro ya reservado                          | `"U001"`, `"Normal"`, `true`, `true`, `día hábil`                   |  `false`         |
+| TC6  | Día no hábil                                | `"U001"`, `"Normal"`, `true`, `false`, `día no hábil`              |  `false`         |
 
  
 ---
